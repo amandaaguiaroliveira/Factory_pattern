@@ -1,2 +1,2 @@
-# Factory_pattern
- 
+# Factory-pattern
+ repositorio para uso do factory pattern
